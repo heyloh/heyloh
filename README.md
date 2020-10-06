@@ -6,7 +6,7 @@
 ### What I'm working on 👩‍💻
 
 📱 Currently building a code learning app - [Codefiq](https://github.com/heyloh/codefiq) <br>
-⚛️ Currently studying front-end development - [React Native](https://reactnative.dev/)
+⚛️ Currently studying mobile development - [React Native](https://reactnative.dev/)
 
 ### Find me elsewhere 🌎
 
