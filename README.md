@@ -1,16 +1,13 @@
-### Hi there 👋
+### Hi there, I'm Lohana! 👋
 
-<!--
-**heyloh/heyloh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+📝 Student at CEFET/RJ<br>
+🇧🇷 Born and living in Rio de Janeiro, Brazil <br>
 
-Here are some ideas to get you started:
+### What I'm working on 👩‍💻
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📱 Currently building a code learning app - [Codefiq](https://github.com/heyloh/codefiq) <br>
+⚛️ Currently studying front-end development - [React Native](https://reactnative.dev/)
+
+### Find me elsewhere 🌎
+
+💼 [LinkedIn](https://www.linkedin.com/in/heyloh) <br>
