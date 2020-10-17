@@ -9,3 +9,7 @@
 ### Find me elsewhere 🌎
 
 💼 [LinkedIn](https://www.linkedin.com/in/heyloh) <br>
+
+<!-- <p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=heyloh&show_icons=true" />
+</p> -->
