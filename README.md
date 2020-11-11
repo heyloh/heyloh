@@ -3,8 +3,7 @@
 📝 Student at CEFET/RJ<br>
 🇧🇷 Born and living in Rio de Janeiro, Brazil <br>
 📱 Working on development of a code learning app - [Codefiq](https://github.com/heyloh/codefiq), available soon<br>
-⚙️ Already learned - HTML, CSS, JavaScript, SQL <br>
-🌱 Currently learning full stack development - [NodeJS](https://nodejs.org/), [ReactJS](https://reactjs.org/) and [React Native](https://reactnative.dev/)
+🌱 Currently learning full stack development - [NodeJS](https://nodejs.org/), [ReactJS](https://reactjs.org/) and [React Native](https://reactnative.dev/) with [Typescript](https://www.typescriptlang.org/)
 
 ### Technologies
 <p>
