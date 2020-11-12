@@ -40,8 +40,6 @@
           <td>
               <img width="440px" align="center" src="https://github-readme-stats.vercel.app/api?username=heyloh&count_private=true&hide_border=true" />
           </td>
-          <td>
-              <img width="400px" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=heyloh&hide=html&layout=compact&count_private=true&hide_border=true" />               </td>
       </tr>  
     </table>
 </center>
