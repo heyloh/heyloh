@@ -1,4 +1,4 @@
-## Hi there, I'm Lohana! 👋🏽
+## Hi, I'm Lohana! 👋🏽
 
 - 📝 Student at CEFET/RJ.<br>
 - 🇧🇷 Born and living in Brazil. <br>
