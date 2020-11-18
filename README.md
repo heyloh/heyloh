@@ -1,13 +1,13 @@
 ## Hi there, I'm Lohana! 👋🏽
 
-- 📝 Student at CEFET/RJ<br>
-- 🇧🇷 Born and living in Rio de Janeiro, Brazil <br>
-- 📱 Working on development of a code learning app - [Codefiq](https://github.com/heyloh/codefiq), available soon<br>
-- 🌱 Currently learning full stack development - [NodeJS](https://nodejs.org/), [ReactJS](https://reactjs.org/) and [React Native](https://reactnative.dev/) with [Typescript](https://www.typescriptlang.org/)
+- 📝 Student at CEFET/RJ.<br>
+- 🇧🇷 Born and living in Brazil. <br>
+- 📱 Working on development of a mobile app - [Codefiq](https://github.com/heyloh/codefiq), available soon.<br>
+- 🌱 Currently learning full stack development - [NodeJS](https://nodejs.org/), [ReactJS](https://reactjs.org/) and [React Native](https://reactnative.dev/) with [TypeScript](https://www.typescriptlang.org/).
 
-<p>
+<p align="center">
     <a href="https://www.linkedin.com/in/heyloh/"><img src="https://img.shields.io/badge/heyloh%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-     <a href="https://twitter.com/heeeloh"><img src="https://img.shields.io/badge/heeeloh%20-%231DA1F2.svg?&style=for-the-badge&logo=Twitter&logoColor=white"/></a>
+    <a href="https://twitter.com/heeeloh"><img src="https://img.shields.io/badge/heeeloh%20-%231DA1F2.svg?&style=for-the-badge&logo=Twitter&logoColor=white"/></a>
 </p>
 
 <!--
