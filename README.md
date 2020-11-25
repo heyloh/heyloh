@@ -35,6 +35,8 @@
     <img src ="https://img.shields.io/badge/sqlite-%2307405e.svg?&style=for-the-badge&logo=sqlite&logoColor=white"/>
 </p>
 
+-->
+
 <center>
     <table align="center">
       <tr>
@@ -45,4 +47,4 @@
     </table>
 </center>
 
--->
+
