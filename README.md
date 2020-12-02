@@ -2,7 +2,7 @@
 
 - 📝 Student at CEFET/RJ.<br>
 - 🇧🇷 Born and living in Brazil. <br>
-- 🌱 Currently learning full stack development - [NodeJS](https://nodejs.org/), [ReactJS](https://reactjs.org/) and [React Native](https://reactnative.dev/) with [TypeScript](https://www.typescriptlang.org/).
+- 🌱 Currently learning full stack development - [NodeJS](https://nodejs.org/), [ReactJS](https://reactjs.org/) and [React Native](https://reactnative.dev/).
 
 <p align="center">
     <a href="https://www.linkedin.com/in/heyloh/"><img src="https://img.shields.io/badge/heyloh%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>
