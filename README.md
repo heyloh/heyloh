@@ -2,7 +2,6 @@
 
 - 📝 Student at CEFET/RJ.<br>
 - 🇧🇷 Born and living in Brazil. <br>
-- 📱 Working on development of a mobile app - [Codefiq](https://github.com/heyloh/codefiq), available soon.<br>
 - 🌱 Currently learning full stack development - [NodeJS](https://nodejs.org/), [ReactJS](https://reactjs.org/) and [React Native](https://reactnative.dev/) with [TypeScript](https://www.typescriptlang.org/).
 
 <p align="center">
