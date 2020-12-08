@@ -1,7 +1,7 @@
 ## Hi, I'm Lohana! 👋🏽
 
 - 📝 Student at CEFET/RJ.<br>
-- 🇧🇷 Born and living in Brazil. <br>
+- 🇧🇷 Born and living in Rio de Janeiro, Brazil. <br>
 - 🌱 Currently learning full stack development - [NodeJS](https://nodejs.org/), [ReactJS](https://reactjs.org/) and [React Native](https://reactnative.dev/).
 
 <p align="center">
@@ -10,6 +10,8 @@
 </p>
 
 <!--
+
+-->
 
 <center>
     <table align="center">
@@ -21,4 +23,3 @@
     </table>
 </center>
 
--->
