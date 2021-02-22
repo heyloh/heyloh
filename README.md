@@ -17,7 +17,7 @@
     <table align="center">
       <tr>
           <td>
-              <img width="440px" align="center" src="https://github-readme-stats.vercel.app/api?username=heyloh&count_private=true&hide_border=true&show_icons=true&hide=issues,contribs" />
+              <img width="440px" align="center" src="https://github-readme-stats.vercel.app/api?username=heyloh&count_private=true&hide_border=true&show_icons=true" />
           </td>
       </tr>  
     </table>
