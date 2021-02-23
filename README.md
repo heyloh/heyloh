@@ -1,8 +1,10 @@
 ## Hi, I'm Lohana! 👋🏽
 
-- 📝 Student at CEFET/RJ.<br>
+<!-- - 🔭 I'm currently working at [Monosoft](https://monosoft.com.br) as a front-end developer. <br> -->
+- 📝 I'm a computer technician student at CEFET/RJ.<br>
 - 🇧🇷 Born and living in Rio de Janeiro, Brazil. <br>
-- 🌱 Currently learning full stack development - [NodeJS](https://nodejs.org/), [ReactJS](https://reactjs.org/) and [React Native](https://reactnative.dev/).
+- 🌱 Currently learning [React.js](https://reactjs.org/), [Next.js](https://nextjs.org/) and [TypeScript](https://www.typescriptlang.org/).
+- ⚡ Fun fact: Shinzou wo Sasageyo! ❤
 
 <p align="center">
     <a href="https://www.linkedin.com/in/heyloh/"><img src="https://img.shields.io/badge/heyloh%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>
