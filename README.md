@@ -1,15 +1,17 @@
 <h1 align="center">Hi there 👋, I'm Lohana!</h1>
 <!-- <h3 align="center">you can call me Loh</h3> -->
 
-- 🔭 I'm currently working on **Monosoft** as a front-end developer
+- 🔭 I'm co-founder and front-end developer at **Monosoft**
 
-- 📝 I'm a computer technician student at CEFET/RJ
+- 💼 I'm currently working at **Concilie Online** as a full stack developer
+
+- 📝 I'm a computer technician formed by CEFET/RJ
 
 - 🇧🇷 Born and living in Rio de Janeiro, Brazil
 
-- 🌱 Currently learning **React.js, Next.js and TypeScript**
+- 🌱 Currently learning **Next.js, Django and Python**
 
-- 💬 Ask me about **JavaScript**, I'll try my best to help!
+- 💬 Ask me about **React.js**, I'll try my best to help!
 
 - ⚡ Fun fact: **Shinzou wo Sasageyo! ❤**
 
