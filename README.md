@@ -1,8 +1,6 @@
 <h1 align="center">Hi there 👋, I'm Lohana!</h1>
 <!-- <h3 align="center">you can call me Loh</h3> -->
 
-- 🔭 I'm co-founder and front-end developer at **Monosoft**
-
 - 💼 I'm currently working at **Concilie Online** as a full stack developer
 
 - 📝 I'm a computer technician formed by CEFET/RJ
