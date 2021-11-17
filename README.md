@@ -7,9 +7,9 @@
 
 - 🇧🇷 Born and living in Rio de Janeiro, Brazil
 
-- 🌱 Currently learning **Next.js, Django and Python**
+- 🌱 Currently learning **Gatsby and Python**
 
-- 💬 Ask me about **React.js**, I'll try my best to help!
+- 💬 Ask me about **Front-end and UI**, I'll try my best to help!
 
 - ⚡ Fun fact: **Shinzou wo Sasageyo! ❤**
 
