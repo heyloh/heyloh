@@ -14,11 +14,7 @@
 - ⚡ Fun fact: **Shinzou wo Sasageyo! ❤**
 
 <!--
-<p align="center">
-    <a href="https://www.linkedin.com/in/heyloh/"><img src="https://img.shields.io/badge/heyloh%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-    <a href="https://twitter.com/heeeloh"><img src="https://img.shields.io/badge/heeeloh%20-%231DA1F2.svg?&style=for-the-badge&logo=Twitter&logoColor=white"/></a>
-</p>
-
+-->
 <center>
     <table align="center">
       <tr>
@@ -26,7 +22,14 @@
               <img width="440px" align="center" src="https://github-readme-stats.vercel.app/api?username=heyloh&count_private=true&hide_border=true&show_icons=true" />
           </td>
       </tr>  
+      <tr>
+          <td>
+              <img width="440px" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=heyloh&layout=compact" />
+          </td>
+      </tr>
     </table>
 </center>
--->
+
+
+
 
