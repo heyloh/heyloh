@@ -14,7 +14,7 @@
 - ⚡ Fun fact: **Shinzou wo Sasageyo! ❤**
 
 <!--
--->
+
 <center>
     <table align="center">
       <tr>
@@ -31,5 +31,5 @@
 </center>
 
 
-
+-->
 
