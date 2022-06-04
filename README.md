@@ -7,9 +7,7 @@
 
 - 🇧🇷 Born and living in Rio de Janeiro, Brazil
 
-- 🌱 Currently learning **Gatsby and Python**
-
-- 💬 Ask me about **Front-end and UI**, I'll try my best to help!
+- 🌱 Currently learning **Software Architecture**
 
 - ⚡ Fun fact: **Shinzou wo Sasageyo! ❤**
 
