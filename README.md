@@ -7,9 +7,9 @@
 
 - 🇧🇷 Born and living in Rio de Janeiro, Brazil
 
-- 🌱 Currently learning **Software Architecture**
+- 🌱 Currently learning **Clean Architecture, DDD and TDD.**
 
-- ⚡ Fun fact: **Shinzou wo Sasageyo! ❤**
+- ⚡ Fun fact: **I named my cat Tauriel like in the Hobbit! ❤**
 
 <!--
 
