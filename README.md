@@ -1,7 +1,7 @@
 <h1 align="center">Hi there 👋, I'm Lohana!</h1>
 <!-- <h3 align="center">you can call me Loh</h3> -->
 
-- 💼 I'm currently working at **Concilie Online** as a full stack developer
+- 💼 I'm currently working at **Serasa Experian** as a Software Developer
 
 - 📝 I'm a computer technician formed by CEFET/RJ
 
