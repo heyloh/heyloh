@@ -7,9 +7,9 @@
 
 - 🇧🇷 Born and living in Rio de Janeiro, Brazil
 
-- 🌱 Currently learning **Clean Architecture, DDD and TDD.**
+- 🌱 Currently learning **how to make the web accessible for everyone.**
 
-- ⚡ Fun fact: **I named my cat Tauriel like in the Hobbit! ❤**
+- ⚡ Fun fact: **LotR is DOPE.**
 
 <!--
 
