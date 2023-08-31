@@ -1,4 +1,4 @@
-<h1 align="center">Hi there 👋, I'm Lohana!</h1>
+<h1 align="center">Hi there, I'm Lohana! 👋</h1>
 
 - 💼 I work at **Serasa** as a Tech Lead & Software Developer
 
