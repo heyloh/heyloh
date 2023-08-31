@@ -1,15 +1,14 @@
 <h1 align="center">Hi there 👋, I'm Lohana!</h1>
-<!-- <h3 align="center">you can call me Loh</h3> -->
 
-- 💼 I'm currently working at **Serasa** as a Software Developer
+- 💼 I'm currently working at **Serasa** as a Tech Lead & Software Developer
 
 - 📝 I'm a computer technician formed by CEFET/RJ
 
+- ⚡ I have expertise in web performance and accessibility
+
 - 🇧🇷 Born and living in Rio de Janeiro, Brazil
 
-- 🌱 Currently learning **Flutter.**
-
-- ⚡ Fun fact: **LotR is DOPE.**
+- 🌱 Currently learning **Qwik**
 
 <!--
 
