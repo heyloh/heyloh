@@ -1,12 +1,14 @@
 <h1 align="center">Hi there 👋, I'm Lohana!</h1>
 
-- 💼 I'm currently working at **Serasa** as a Tech Lead & Software Developer
+- 💼 I work at **Serasa** as a Tech Lead & Software Developer
 
 - 📝 I'm a computer technician formed by CEFET/RJ
 
-- ⚡ I have expertise in web performance and accessibility
+- 🏗️ I'm passionate about software design and architecture
 
-- 🌱 Currently learning **Qwik**
+- ⚡ I've expertise in frontend performance
+
+- 🌱 I'm learning **to build frontends with Qwik because of its resumability concept**
 
 <!--
 
