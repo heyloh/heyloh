@@ -6,8 +6,6 @@
 
 - ⚡ I have expertise in web performance and accessibility
 
-- 🇧🇷 Born and living in Rio de Janeiro, Brazil
-
 - 🌱 Currently learning **Qwik**
 
 <!--
